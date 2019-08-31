@@ -2,8 +2,6 @@ interface Mytype {
     aaa: number;
 }
 
-function bb(aa: string) {
-    console.log(22);
+function show(aa: string) {
+    alert(aa);
 }
-
-let a = 99;

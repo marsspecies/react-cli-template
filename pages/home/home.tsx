@@ -5,7 +5,7 @@ export default class extends React.Component {
 
         return <div>
 
-            This is Home page! 9900
+            This is Home page! 
 
 
         </div>;
